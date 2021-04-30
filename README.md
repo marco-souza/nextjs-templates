@@ -4,7 +4,7 @@ Repository to keep track of Next.JS presets, ready for development.
 
 ## Examples
 
-- [Simple App](./simple-app) - Setup with small setup using `prettier`, `husky`, and `@chakra-ui`
+- [Simple App](./simple-app) - Setup a slim project using `prettier`, `husky`, and `@chakra-ui`
 
 ## Next steps
 
